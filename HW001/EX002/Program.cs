@@ -1,6 +1,6 @@
-﻿var a = 2;
-var b = 3;
-var c = 7;
+﻿int a = 2;
+int b = 3;
+int c = 7;
 if (c > a && a > b)
 {
     Console.WriteLine("a=max");
