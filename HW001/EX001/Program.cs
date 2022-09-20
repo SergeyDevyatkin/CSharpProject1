@@ -1,5 +1,5 @@
-﻿var a = 3 ;
-var b = 5 ;
+﻿int a = 3 ;
+int b = 5 ;
 if (a > b)
 {
     Console.WriteLine("a=max");
